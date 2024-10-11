@@ -2,7 +2,7 @@
 
 // TODO: Fix the square root function not displaying
 function calculateSquareRoot(value) {
-    
+    return value**(0.5);
     // return the square root of the value
 }
 
