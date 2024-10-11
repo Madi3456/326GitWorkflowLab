@@ -16,4 +16,10 @@ describe('Calculator Calculation Functions', function() {
 });
 
 
+
 // Add your tests here
+
+//testing tan 
+console.log("Testing tan ..../n")
+assert.strictEqual(0,tan(0));
+console.log("Testing tan of 0 is correct");
