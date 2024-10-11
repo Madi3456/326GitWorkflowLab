@@ -24,7 +24,7 @@ function calculateReciprocal(value) {
 // TODO: Implement natural log function
 function naturalLog(value) {
     // return the natural log of the value
-    //khushali 
+    return Math.log(value);
 
 }
 
